@@ -19,7 +19,7 @@ alias df='df -h'
 alias free='free -h'
 # Dotfiles & Files
 alias bs='nano ~/.bashrc'
-alias nano = "nano -lB"
+
 
 # Dunst
 alias hi="notify-send 'Hi there!' 'Welcome to my dk desktop! ' -i ''"
