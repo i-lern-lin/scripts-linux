@@ -18,7 +18,7 @@ alias ls='exa -al --header --icons --group-directories-first'
 alias df='df -h'
 alias free='free -h'
 # Dotfiles & Files
-alias bs='nano ~/.bashrc'
+#alias bs='nano ~/.bashrc'
 
 
 # Dunst
@@ -28,10 +28,10 @@ alias hi="notify-send 'Hi there!' 'Welcome to my dk desktop! ' -i ''"
 # Add Color
 alias egrep='grep --color=auto'
 
-export PATH="~/bin:$PATH"
-export PATH="~/.local/bin:$PATH"
-export PATH="/usr/local/go/bin:$PATH"
-export EDITOR=nano;
+#export PATH="~/bin:$PATH"
+#export PATH="~/.local/bin:$PATH"
+#export PATH="/usr/local/go/bin:$PATH"
+#export EDITOR=nano;
 # PS1 Customization
 PS1="\[\e[32m\]\h\[\e[m\]\[\e[36m\]@\[\e[m\]\[\e[34m\]\u\[\e[m\] \W \$ "
 #neofetch
